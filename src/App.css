@@ -4,7 +4,9 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color: lightblue;
+  background-color: rgb(236, 235, 143);
+  font-family: 'Arial', sans-serif;
+  text-align: center;
 }
 
 .calculator {
